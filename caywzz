@@ -1,5 +1,5 @@
 {
-  "allowedIps": ["172.18.0.41", "172.18.0.41", "192.168.100.4", "192.167.1.1"],
+  "allowedIps": ["172.18.0.41", "172.18.0.41", "192.168.100.4", "192.167.1.1", "192.168.35.84"],
   "users": [
     {
       "username": "varelmek",
@@ -16,6 +16,11 @@
     {
       "username": "zyy",
       "password": "zyy"
+    }
+    {
+      "username": "NandaDev",
+      "password": "NandaDev"
+    
     }
   ]
 }
